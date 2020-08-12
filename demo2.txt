@@ -3,3 +3,5 @@ second file
 2 files add
 
 unstage
+
+checkout
